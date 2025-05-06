@@ -1,0 +1,7 @@
+id,name,lat,lon,zone
+S1,Central Station,12.3456,78.9012,1
+S2,Market Square,12.3512,78.9156,1
+S3,University Campus,12.3621,78.9287,2
+S4,Suburb Terminal,12.3389,78.8923,3
+S5,International Airport,12.4156,78.8011,4
+S6,Bus Depot,12.3256,78.9112,2

@@ -1,0 +1,12 @@
+from,to,transport_type,weight(mins),distance(km),frequency(mins)
+S1,S2,subway,5,2.5,3
+S2,S1,subway,5,2.5,3
+S2,S3,bus,12,5.8,10
+S3,S2,bus,12,5.8,10
+S1,S4,tram,8,3.2,7
+S4,S1,tram,8,3.2,7
+S4,S3,walk,25,1.8,0
+S1,S5,express_train,35,28.4,15
+S5,S1,express_train,35,28.4,15
+S3,S5,bus,45,30.1,20
+S1,S6,bus,10,4.5,12
